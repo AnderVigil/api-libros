@@ -36,7 +36,7 @@ const libros = [
   {
     id: 4,
     nombre: 'La Odisea',
-    anioPublicacion: -800
+    anioPublicacion: 1949
   },
   {
     id: 5,
